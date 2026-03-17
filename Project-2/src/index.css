@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  height: 100%;
+  width: 100%;
+}
+
+.card {
+  background-color: pink;
+  border-radius: 2px;
+  margin: 20px;
+}
+
+.navbar {
+  background-color: lightcoral;
+  padding: 20px;
+  margin: 5px;
+}
