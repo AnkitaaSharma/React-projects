@@ -8,7 +8,7 @@ const RightCard = (props) => {
         className="h-full w-full object-cover"
         src={props.img}
       ></img>
-      <RightCardContent id={props.id} tag={props.tag}/>
+      <RightCardContent color={props.color} id={props.id} tag={props.tag}/>
     </div>
   );
 };
